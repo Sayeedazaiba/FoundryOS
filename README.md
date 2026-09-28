@@ -1,5 +1,4 @@
-# FoundryOS
-Multiagent AI Orchestration Platform
+
 # FoundryOS
 
 ### Multi-Agent AI Platform for Business Idea Evaluation
