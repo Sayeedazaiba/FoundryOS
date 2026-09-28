@@ -1,0 +1,38 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+.npm/
+.yarn/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+.vite/
+.tanstack/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated reports
+backend/reports/
+
+# Logs
+*.log
