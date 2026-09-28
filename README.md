@@ -24,7 +24,7 @@ FoundryOS addresses this by assigning different aspects of the evaluation to spe
 * Downloadable reports
 * Multi-perspective evaluation of the business idea
 
-> **Note:** FoundryOS is designed as a decision-support and reference tool. Its reports are not intended to replace professional business, financial, legal, or technical advice.
+
 
 ## AI Agent Architecture
 
@@ -130,7 +130,7 @@ FoundryOS/
 └── README.md
 ```
 
-> The exact structure may vary depending on the current implementation.
+
 
 ## Getting Started
 
@@ -167,7 +167,7 @@ Create a `.env` file and add your Groq API key:
 GROQ_API_KEY=your_api_key_here
 ```
 
-**Never commit your `.env` file or API keys to GitHub.**
+
 
 ### 5. Run the application
 
@@ -206,4 +206,4 @@ Ballari Institute of Technology and Management
 
 ---
 
-⭐ If you find the project interesting, feel free to explore the repository.
+
