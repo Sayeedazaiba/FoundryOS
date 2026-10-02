@@ -11,6 +11,10 @@ A business idea often needs to be evaluated across multiple areas such as techno
 
 FoundryOS addresses this by assigning different aspects of the evaluation to specialized AI agents. The agents analyze the user's business idea independently within their domains and produce structured insights that are combined into downloadable reports.
 
+## Demo
+
+[![Watch FoundryOS Demo](https://img.shields.io/badge/Watch_Demo-FoundryOS-6C63FF?style=for-the-badge)](https://github.com/user-attachments/assets/2923aa30-5201-46cb-95e9-c4f85dff3f94)
+
 **Input:**
 
 * Business idea
